@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.submit-button {
+		margin-top: 2em;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -3073,7 +3077,7 @@
 		/* List */
 
 			ul.actions {
-				margin: 0 0 2em 0;
+				margin: 2em 0 2em 0;
 			}
 
 				ul.actions li {
